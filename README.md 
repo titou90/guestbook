@@ -11,15 +11,6 @@ sudo apt-get install php8.1-pgsql
 
 /etc/php/8.1/
 
-## Platform.sh
-- subscription ID: 2720013
-- Region: fr-4.platform.sh
-- Project ID: w4igji3czy5ns
-- Project title: Guestbook
-- URL: https://console.platform.sh/01h6bbsjg0wgbtcf2d383g9jav/w4igji3czy5ns
-- Git URL: w4igji3czy5ns@git.fr-4.platform.sh:w4igji3czy5ns.git
-
-
 ## Delete project on Platform.sh
 
 If you want to delete the project on Platform.sh, use the cloud:project:delete command.
